@@ -1,0 +1,659 @@
+{
+ "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/{project}/all-access/user/{title}/daily/{start}/{end}",
+ "agent": "user",
+ "access": "all-access",
+ "start": "20221201",
+ "end": "20230731",
+ "outcomes": {
+  "chatgpt": {
+   "en_title": "ChatGPT",
+   "units": [
+    {
+     "lang": "it",
+     "title": "ChatGPT",
+     "n_titles": 2,
+     "views_by_title": {
+      "ChatGPT": 1118796,
+      "Chat GPT": 0
+     }
+    },
+    {
+     "lang": "es",
+     "title": "ChatGPT",
+     "n_titles": 3,
+     "views_by_title": {
+      "ChatGPT": 4168553,
+      "Chat Generative Pre-Trained Transformer": 0,
+      "Chatgpt": 4168553
+     }
+    },
+    {
+     "lang": "de",
+     "title": "ChatGPT",
+     "n_titles": 2,
+     "views_by_title": {
+      "ChatGPT": 2876898,
+      "ChatGPT Plus": 24
+     }
+    },
+    {
+     "lang": "fr",
+     "title": "ChatGPT",
+     "n_titles": 3,
+     "views_by_title": {
+      "ChatGPT": 2318174,
+      "Chatgpt": 2318174,
+      "Chat gpt": 1587
+     }
+    },
+    {
+     "lang": "pt",
+     "title": "ChatGPT",
+     "n_titles": 3,
+     "views_by_title": {
+      "ChatGPT": 1857208,
+      "ChatGPT Plus": 5103,
+      "Chat GPT": 0
+     }
+    },
+    {
+     "lang": "nl",
+     "title": "ChatGPT",
+     "n_titles": 3,
+     "views_by_title": {
+      "ChatGPT": 441008,
+      "Chatgpt": 441008,
+      "Chat GPT": 108
+     }
+    },
+    {
+     "lang": "pl",
+     "title": "ChatGPT",
+     "n_titles": 1,
+     "views_by_title": {
+      "ChatGPT": 347301
+     }
+    },
+    {
+     "lang": "ru",
+     "title": "ChatGPT",
+     "n_titles": 3,
+     "views_by_title": {
+      "ChatGPT": 2229601,
+      "Чат джи пи ти": 0,
+      "Чат гпт": 0
+     }
+    },
+    {
+     "lang": "uk",
+     "title": "ChatGPT",
+     "n_titles": 2,
+     "views_by_title": {
+      "ChatGPT": 321393,
+      "Codex": 0
+     }
+    },
+    {
+     "lang": "ja",
+     "title": "ChatGPT",
+     "n_titles": 3,
+     "views_by_title": {
+      "ChatGPT": 2211623,
+      "チャットGPT": 2493,
+      "チャットgpt": 2493
+     }
+    },
+    {
+     "lang": "zh",
+     "title": "ChatGPT",
+     "n_titles": 6,
+     "views_by_title": {
+      "ChatGPT": 2462857,
+      "聊天生成预训练转换器": 12,
+      "Chat.openai.com": 138,
+      "Chat Generative Pre-trained Transformer": 27,
+      "Chat GPT": 0,
+      "GPT-6": 0
+     }
+    },
+    {
+     "lang": "id",
+     "title": "ChatGPT",
+     "n_titles": 4,
+     "views_by_title": {
+      "ChatGPT": 276035,
+      "Chatgpt": 276035,
+      "ChatGPT Plus": 0,
+      "Chat GPT": 0
+     }
+    },
+    {
+     "lang": "he",
+     "title": "ChatGPT",
+     "n_titles": 3,
+     "views_by_title": {
+      "ChatGPT": 221204,
+      "צ'אט ג'י פי טי": 0,
+      "צ'אט GPT": 0
+     }
+    },
+    {
+     "lang": "vi",
+     "title": "ChatGPT",
+     "n_titles": 1,
+     "views_by_title": {
+      "ChatGPT": 183055
+     }
+    },
+    {
+     "lang": "tr",
+     "title": "ChatGPT",
+     "n_titles": 2,
+     "views_by_title": {
+      "ChatGPT": 180896,
+      "Chatgpt": 180896
+     }
+    },
+    {
+     "lang": "fa",
+     "title": "چت‌جی‌پی‌تی",
+     "n_titles": 3,
+     "views_by_title": {
+      "چت‌جی‌پی‌تی": 142149,
+      "ChatGPT": 150,
+      "چت جی‌پی‌تی": 2
+     }
+    },
+    {
+     "lang": "sv",
+     "title": "ChatGPT",
+     "n_titles": 2,
+     "views_by_title": {
+      "ChatGPT": 133087,
+      "GPT-4": 0
+     }
+    },
+    {
+     "lang": "cs",
+     "title": "ChatGPT",
+     "n_titles": 1,
+     "views_by_title": {
+      "ChatGPT": 97269
+     }
+    },
+    {
+     "lang": "hu",
+     "title": "ChatGPT",
+     "n_titles": 1,
+     "views_by_title": {
+      "ChatGPT": 99757
+     }
+    },
+    {
+     "lang": "el",
+     "title": "ChatGPT",
+     "n_titles": 2,
+     "views_by_title": {
+      "ChatGPT": 94220,
+      "GPT-3": 0
+     }
+    },
+    {
+     "lang": "ro",
+     "title": "ChatGPT",
+     "n_titles": 1,
+     "views_by_title": {
+      "ChatGPT": 92639
+     }
+    },
+    {
+     "lang": "fi",
+     "title": "ChatGPT",
+     "n_titles": 2,
+     "views_by_title": {
+      "ChatGPT": 49268,
+      "ChatGPT Plus": 0
+     }
+    },
+    {
+     "lang": "da",
+     "title": "ChatGPT",
+     "n_titles": 2,
+     "views_by_title": {
+      "ChatGPT": 34475,
+      "GPT-3": 0
+     }
+    },
+    {
+     "lang": "ca",
+     "title": "ChatGPT",
+     "n_titles": 1,
+     "views_by_title": {
+      "ChatGPT": 24733
+     }
+    },
+    {
+     "lang": "sk",
+     "title": "ChatGPT",
+     "n_titles": 1,
+     "views_by_title": {
+      "ChatGPT": 26012
+     }
+    },
+    {
+     "lang": "ko",
+     "title": "챗GPT",
+     "n_titles": 21,
+     "views_by_title": {
+      "챗GPT": 496,
+      "Chat.openai.com/chat": 1,
+      "GPTChat": 2,
+      "Chat GPT": 291,
+      "Chatbot GPT": 1,
+      "챗지피티": 72,
+      "채트GPT": 0,
+      "ChatGPT": 383189,
+      "Chatgpt": 383189,
+      "ChatGPT Plus": 0,
+      "ChatGPT +": 0,
+      "Chat G.P.T.": 0,
+      "Chat g-p-t": 0,
+      "Chat-GPT": 0,
+      "Chat gpt": 291,
+      "Chat.openai.com": 0,
+      "ChatGPT-4": 0,
+      "ChatGTP": 0,
+      "Chat GTP": 0,
+      "Chatgpt.com": 0,
+      "ChadGPT": 0
+     }
+    },
+    {
+     "lang": "ar",
+     "title": "تشات جي بي تي",
+     "n_titles": 4,
+     "views_by_title": {
+      "تشات جي بي تي": 0,
+      "ChatGPT": 249,
+      "دردشة جي بي تي": 55116,
+      "شات جي بي تي": 494372
+     }
+    }
+   ]
+  },
+  "vpn": {
+   "en_title": "Virtual private network",
+   "units": [
+    {
+     "lang": "it",
+     "title": "Rete privata virtuale",
+     "n_titles": 5,
+     "views_by_title": {
+      "Rete privata virtuale": 29647,
+      "Virtual private network": 245,
+      "Virtual Private Network": 245,
+      "Rete virtuale privata": 1764,
+      "VPN (Informatica)": 12
+     }
+    },
+    {
+     "lang": "es",
+     "title": "Red privada virtual",
+     "n_titles": 20,
+     "views_by_title": {
+      "Red privada virtual": 45114,
+      "Redes privadas virtuales": 41,
+      "RPV": 27,
+      "Redes Privadas Virtuales": 41,
+      "VPN (informática)": 23,
+      "Virtual Private Networks": 0,
+      "Redes Privadas Virtuales (VPN)": 1,
+      "Virtual Private Network": 18,
+      "V.P.N.": 1,
+      "V. P. N.": 2,
+      "V P N": 0,
+      "VPN (informatica)": 1,
+      "V P.N.": 0,
+      "V P N.": 0,
+      "V P. N.": 0,
+      "Vpn": 567,
+      "VPN": 567,
+      "Red Privada Virtual": 45114,
+      "Red virtual privada": 5,
+      "Redes virtuales privadas": 84
+     }
+    },
+    {
+     "lang": "de",
+     "title": "Virtual Private Network",
+     "n_titles": 9,
+     "views_by_title": {
+      "Virtual Private Network": 87524,
+      "Virtuelles privates Netz": 6,
+      "Virtuelles privates Netzwerk": 14,
+      "VPN-Tunnel": 134,
+      "Mobile-VPN": 0,
+      "Virtuelle Netzwerkkarte": 4,
+      "VPN-Verbindung": 28,
+      "VPN-Netzwerk": 785,
+      "Geschlossener Tunnel": 0
+     }
+    },
+    {
+     "lang": "fr",
+     "title": "Réseau privé virtuel",
+     "n_titles": 9,
+     "views_by_title": {
+      "Réseau privé virtuel": 51583,
+      "Réseaux privés virtuels": 8,
+      "VPN-Q": 15,
+      "Virtual Private Network": 169,
+      "Vpn": 900,
+      "Chiffreur IP": 54,
+      "VPN": 900,
+      "Virtual private network": 169,
+      "RPV (informatique)": 0
+     }
+    },
+    {
+     "lang": "pt",
+     "title": "Rede privada virtual",
+     "n_titles": 13,
+     "views_by_title": {
+      "Rede privada virtual": 19811,
+      "Remote Access VPN": 21,
+      "Intranet VPN": 0,
+      "Extranet VPN": 0,
+      "Access VPNs": 0,
+      "Intranet VPNs": 0,
+      "Extranet VPNs": 0,
+      "Remote access vpn": 21,
+      "VPN": 466,
+      "Rede Privada Virtual": 19811,
+      "Virtual Private Network": 80,
+      "Virtual private network": 80,
+      "Rede virtual privada": 0
+     }
+    },
+    {
+     "lang": "nl",
+     "title": "Virtueel Particulier Netwerk",
+     "n_titles": 5,
+     "views_by_title": {
+      "Virtueel Particulier Netwerk": 9483,
+      "Virtual Private Network": 17,
+      "Virtual private network": 17,
+      "Virtueel Privé Netwerk": 4,
+      "Virtueel Prive Netwerk": 0
+     }
+    },
+    {
+     "lang": "pl",
+     "title": "Wirtualna sieć prywatna",
+     "n_titles": 5,
+     "views_by_title": {
+      "Wirtualna sieć prywatna": 14043,
+      "Virtual Privacy Network": 0,
+      "Virtual private network": 11,
+      "VPN": 570,
+      "Virtual Private Network": 11
+     }
+    },
+    {
+     "lang": "ru",
+     "title": "VPN",
+     "n_titles": 5,
+     "views_by_title": {
+      "VPN": 267803,
+      "Виртуальная частная сеть": 706,
+      "Virtual Private Network": 557,
+      "VPN-сервис": 266,
+      "Виртуальная сеть": 0
+     }
+    },
+    {
+     "lang": "uk",
+     "title": "VPN",
+     "n_titles": 5,
+     "views_by_title": {
+      "VPN": 11901,
+      "Віртуальна приватна мережа": 29,
+      "Virtual Private Network": 7,
+      "Virtual private network": 7,
+      "ВПН": 10
+     }
+    },
+    {
+     "lang": "ja",
+     "title": "Virtual private network",
+     "n_titles": 13,
+     "views_by_title": {
+      "Virtual private network": 124,
+      "仮想プライベートネットワーク": 27,
+      "IP-VPN": 92,
+      "インターネットVPN": 14,
+      "Vpn": 299,
+      "VPN接続": 9,
+      "VPN": 299,
+      "バーチャルプライベートネットワーク": 13,
+      "バーチャル・プライベート・ネットワーク": 1,
+      "ノーログポリシー": 7497,
+      "仮想専用線": 5,
+      "Virtual Private Network": 124,
+      "仮想非公開ネットワーク": 0
+     }
+    },
+    {
+     "lang": "zh",
+     "title": "虛擬私人網路",
+     "n_titles": 13,
+     "views_by_title": {
+      "虛擬私人網路": 37936,
+      "VPN": 5543,
+      "虚拟专用网": 362,
+      "虚拟专用网络": 121,
+      "虛擬私人網絡": 146,
+      "虛擬私有網路": 13,
+      "虚拟私人网路": 1,
+      "虚拟专有网络": 23,
+      "Vpn": 5543,
+      "Virtual private network": 31,
+      "虚拟私人网络": 261,
+      "虛擬專用網": 2,
+      "虚拟专网": 4
+     }
+    },
+    {
+     "lang": "id",
+     "title": "Jaringan pribadi virtual",
+     "n_titles": 8,
+     "views_by_title": {
+      "Jaringan pribadi virtual": 4152,
+      "Vpn": 180,
+      "Virtual Private Network": 22,
+      "VPN": 180,
+      "Virtual private network": 22,
+      "Jaringan virtual pribadi": 6,
+      "Jaringan pribadi virtual seluler": 17,
+      "Jaringan pribadi maya": 4606
+     }
+    },
+    {
+     "lang": "he",
+     "title": "VPN",
+     "n_titles": 2,
+     "views_by_title": {
+      "VPN": 14810,
+      "Virtual Private Network": 40
+     }
+    },
+    {
+     "lang": "vi",
+     "title": "Mạng riêng ảo",
+     "n_titles": 5,
+     "views_by_title": {
+      "Mạng riêng ảo": 5298,
+      "Mạng riêng ảo - VPN": 1,
+      "VPN": 95,
+      "Virtual private network": 13,
+      "Virtual Private Network": 13
+     }
+    },
+    {
+     "lang": "tr",
+     "title": "Sanal özel ağ",
+     "n_titles": 4,
+     "views_by_title": {
+      "Sanal özel ağ": 13422,
+      "VPN": 632,
+      "Sanal Özel Ağ": 13422,
+      "Virtual Private Network": 345
+     }
+    },
+    {
+     "lang": "fa",
+     "title": "شبکه خصوصی مجازی",
+     "n_titles": 12,
+     "views_by_title": {
+      "شبکه خصوصی مجازی": 24871,
+      "وی پی ان": 444,
+      "وی‌پی‌ان": 241,
+      "شبکهٔ خصوصی مجازی": 496,
+      "شبكه خصوصي مجازي": 1,
+      "شبکه اختصاصی مجازی": 54,
+      "Vpn": 897,
+      "شبكه اختصاصي مجازي": 0,
+      "شبكهٔ خصوصي مجازي": 0,
+      "وي. پي. ان": 2,
+      "وی. پی. ان": 14,
+      "وي پي ان": 5
+     }
+    },
+    {
+     "lang": "sv",
+     "title": "Virtuellt privat nätverk",
+     "n_titles": 6,
+     "views_by_title": {
+      "Virtuellt privat nätverk": 3217,
+      "Virtual Private Network": 0,
+      "VPN-tjänst": 12,
+      "VPN-tunnel": 36,
+      "VPN-teknik": 32,
+      "Virtual private network": 0
+     }
+    },
+    {
+     "lang": "cs",
+     "title": "Virtuální privátní síť",
+     "n_titles": 2,
+     "views_by_title": {
+      "Virtuální privátní síť": 8666,
+      "Virtual Private Network": 52
+     }
+    },
+    {
+     "lang": "hu",
+     "title": "Virtuális magánhálózat",
+     "n_titles": 1,
+     "views_by_title": {
+      "Virtuális magánhálózat": 5341
+     }
+    },
+    {
+     "lang": "el",
+     "title": "Εικονικό ιδιωτικό δίκτυο",
+     "n_titles": 3,
+     "views_by_title": {
+      "Εικονικό ιδιωτικό δίκτυο": 2333,
+      "VPN": 37,
+      "Εικονικό Ιδιωτικό Δίκτυο (VPN)": 6
+     }
+    },
+    {
+     "lang": "ro",
+     "title": "Rețea privată virtuală",
+     "n_titles": 9,
+     "views_by_title": {
+      "Rețea privată virtuală": 6730,
+      "Vpn": 19,
+      "VPN": 19,
+      "Rețea virtuală privată": 0,
+      "Virtual private network": 33,
+      "Rețele virtuale private": 0,
+      "Reţele virtuale private": 0,
+      "Reţea privată virtuală": 0,
+      "Reţea virtuală privată": 0
+     }
+    },
+    {
+     "lang": "fi",
+     "title": "VPN",
+     "n_titles": 1,
+     "views_by_title": {
+      "VPN": 6209
+     }
+    },
+    {
+     "lang": "da",
+     "title": "Virtual private network",
+     "n_titles": 5,
+     "views_by_title": {
+      "Virtual private network": 1154,
+      "VPN": 51,
+      "Vpn": 51,
+      "Virtual Private Network": 1154,
+      "Krypteret VPN": 15
+     }
+    },
+    {
+     "lang": "ca",
+     "title": "Xarxa privada virtual",
+     "n_titles": 3,
+     "views_by_title": {
+      "Xarxa privada virtual": 1120,
+      "Virtual private network": 0,
+      "Virtual Private Network": 0
+     }
+    },
+    {
+     "lang": "sk",
+     "title": "Virtuálna privátna sieť",
+     "n_titles": 1,
+     "views_by_title": {
+      "Virtuálna privátna sieť": 3457
+     }
+    },
+    {
+     "lang": "ko",
+     "title": "가상사설망",
+     "n_titles": 8,
+     "views_by_title": {
+      "가상사설망": 7186,
+      "가상 사설 네트워크": 8,
+      "VPN": 120,
+      "가상 개인 네트워크": 0,
+      "가상 사설망": 299,
+      "브픈": 0,
+      "Vpn": 120,
+      "가상 사설 망": 0
+     }
+    },
+    {
+     "lang": "ar",
+     "title": "شبكة خاصة افتراضية",
+     "n_titles": 8,
+     "views_by_title": {
+      "شبكة خاصة افتراضية": 17597,
+      "الشبكة الافتراضية الخاصة": 0,
+      "شبكه افتراضيه خاصه": 0,
+      "شبكة افتراضية خاصة": 7,
+      "Virtual private network": 4,
+      "VPN": 172,
+      "شبكة ظاهرية خاصة": 1,
+      "في بي إن": 106
+     }
+    }
+   ]
+  }
+ }
+}
