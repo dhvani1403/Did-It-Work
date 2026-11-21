@@ -1,0 +1,87 @@
+{
+  "config": {
+    "J": 20,
+    "T0": 40,
+    "T1": 10,
+    "F": 3,
+    "sigma": 1.0,
+    "trend_scale": 6.0,
+    "rho": 0.8,
+    "k": 4,
+    "outside_shift": 0.6
+  },
+  "designs": [
+    [
+      "inside",
+      0.0,
+      1000
+    ],
+    [
+      "inside",
+      0.5,
+      500
+    ],
+    [
+      "inside",
+      1.0,
+      500
+    ],
+    [
+      "inside",
+      2.0,
+      500
+    ],
+    [
+      "inside",
+      4.0,
+      500
+    ],
+    [
+      "outside",
+      0.0,
+      500
+    ],
+    [
+      "outside",
+      2.0,
+      500
+    ]
+  ],
+  "solver": "fista",
+  "null_reps": 1000,
+  "null_reject_05": 0.06,
+  "null_reject_05_se": 0.007509993342207435,
+  "null_reject_10": 0.116,
+  "null_mean_p": 0.48528571428571426,
+  "nominal_reject_05": 0.047619047619047616,
+  "nominal_reject_10": 0.09523809523809523,
+  "null_rank_counts": [
+    60,
+    56,
+    53,
+    52,
+    56,
+    53,
+    51,
+    42,
+    41,
+    59,
+    51,
+    50,
+    49,
+    55,
+    48,
+    37,
+    40,
+    47,
+    34,
+    36,
+    30
+  ],
+  "pre_rmspe_inside_median": 0.955705845155085,
+  "pre_rmspe_outside_median": 1.6714397749012637,
+  "pre_rmspe_flag_threshold_q95_inside": 1.1658093037657984,
+  "outside_flagged_share": 0.983,
+  "outside_treated_worst_pre_fit_share": 0.596,
+  "inside_treated_worst_pre_fit_share": 0.0033333333333333335
+}

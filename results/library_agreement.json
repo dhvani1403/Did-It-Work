@@ -1,0 +1,30 @@
+{
+  "pysyncon_version": "1.7.0",
+  "simulated": {
+    "panels": 50,
+    "max_weight_diff": 8.667141662033195e-05,
+    "median_weight_diff": 2.7032518991665366e-05,
+    "max_effect_diff": 0.00010854004161364728
+  },
+  "italy_chatgpt": {
+    "max_weight_diff": 2.32485760642831e-08,
+    "mean_log_gap_mine": 0.032339151681410806,
+    "mean_log_gap_pysyncon": 0.03233914827269604,
+    "weights_mine": {
+      "es": 0.262,
+      "de": 0.0739,
+      "fr": 0.3394,
+      "he": 0.2332,
+      "da": 0.026,
+      "sk": 0.0655
+    },
+    "weights_pysyncon": {
+      "es": 0.262,
+      "de": 0.0739,
+      "fr": 0.3394,
+      "he": 0.2332,
+      "da": 0.026,
+      "sk": 0.0655
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "problems": 300,
+  "full_rank_problems": 242,
+  "pgd_converged_share": 1.0,
+  "max_w_diff_full_rank": 3.116363582134074e-06,
+  "median_w_diff_full_rank": 3.477354424269441e-07,
+  "max_w_diff_all": 3.116363582134074e-06,
+  "max_fit_diff_all": 1.3134053980390646e-05,
+  "max_rel_obj_diff": 2.38587125135281e-11,
+  "share_pgd_lower_objective": 0.9733333333333334,
+  "median_pgd_iters": 1740.0,
+  "median_fista_iters": 220.0,
+  "median_ms": {
+    "scipy": 1.361666499999803,
+    "pgd": 21.729104499999874,
+    "fista": 3.8180420000006876
+  },
+  "convergence_example": {
+    "L": 3037.9036459929544,
+    "lambda_min": 5.880123471262498,
+    "condition_number": 516.6394312704286,
+    "f_star": 42.28378382029686
+  }
+}

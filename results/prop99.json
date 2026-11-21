@@ -1,0 +1,74 @@
+{
+  "T0": 19,
+  "J": 38,
+  "years": [
+    1970,
+    2000
+  ],
+  "mine": {
+    "weights": {
+      "Utah": 0.394,
+      "Montana": 0.232,
+      "Nevada": 0.205,
+      "Connecticut": 0.109,
+      "New Hampshire": 0.045,
+      "Colorado": 0.015
+    },
+    "pre_rmspe": 1.6564004002476604,
+    "gap_2000": -26.596642683425152,
+    "mean_gap_1989_2000": -19.513631367911504,
+    "rank_X": 19,
+    "scipy_max_weight_diff": 1.8976734159792397e-05,
+    "scipy_max_synthetic_diff": 0.00022773445694213024,
+    "scipy_objective": 52.12958348127507,
+    "fista_objective": 52.12958343287157,
+    "fista_iterations": 9060,
+    "fista_converged": true,
+    "fista_fw_gap": 6.630784810113255e-10,
+    "scipy_fw_gap": 0.002487600108395327,
+    "plain_pgd_objective_200k": 52.19295125750447,
+    "plain_pgd_converged": false,
+    "plain_pgd_fw_gap": 2.8715142165040106,
+    "plain_pgd_max_weight_diff": 0.020896547186038394,
+    "p_value": 0.07692307692307693,
+    "rmspe_ratio": 12.439968043749523,
+    "p_value_drop_2x": 0.10344827586206896,
+    "placebos_kept_2x": 28,
+    "p_value_drop_5x": 0.08571428571428572,
+    "placebos_kept_5x": 34
+  },
+  "pysyncon_same_objective": {
+    "weights": {
+      "Colorado": 0.015,
+      "Connecticut": 0.109,
+      "Montana": 0.232,
+      "Nevada": 0.205,
+      "New Hampshire": 0.045,
+      "Utah": 0.394
+    },
+    "max_weight_diff_vs_mine": 8.60473320925259e-06,
+    "max_synthetic_diff_vs_mine": 0.00018697075495310855,
+    "gap_2000": -26.59660968161264
+  },
+  "pysyncon_adh_covariates": {
+    "weights": {
+      "Utah": 0.31,
+      "Nevada": 0.226,
+      "Colorado": 0.201,
+      "Montana": 0.086,
+      "Connecticut": 0.073,
+      "New Mexico": 0.071,
+      "Idaho": 0.032
+    },
+    "pre_rmspe": 2.0079982308240334,
+    "gap_2000": -24.505535073297217,
+    "mean_gap_1989_2000": -18.004016395926374
+  },
+  "published_adh_weights": {
+    "Utah": 0.334,
+    "Nevada": 0.234,
+    "Montana": 0.199,
+    "Colorado": 0.164,
+    "Connecticut": 0.069
+  }
+}
